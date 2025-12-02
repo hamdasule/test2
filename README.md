@@ -29,3 +29,8 @@ __*이텔릭체*와 두껍게__ 를 혼용할 수도 있습니다.
 취소선은 ~~물결 기호(tilde)~~ 를 사용하세요.
 
 <u>밑줄</u>은 마크다운에서 지원하지 않기에, 직접 `<u></u>` 태그를 사용하세요.
+
+![내얼굴](https://github.com/user-attachments/assets/38ffd43b-b337-4f5f-8972-7aa2e536fe45)
+![내얼굴](https://github.com/user-attachments/assets/38ffd43b-b337-4f5f-8972-7aa2e536fe45 "내얼굴괜찮아요")
+
+<img src = "https://github.com/user-attachments/assets/38ffd43b-b337-4f5f-8972-7aa2e536fe45" alt="내얼굴" wudth>
